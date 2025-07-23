@@ -1,0 +1,13 @@
+.nav {
+    background-color: #2C3E50;
+    color:white;
+}
+.nav-link{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.logo{
+    font-size:40px;
+    font-weight: bold;
+}
